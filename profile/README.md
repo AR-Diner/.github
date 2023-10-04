@@ -41,8 +41,8 @@ Our mission is to empower restaurants & enhance users experiences while enjoying
 
 Meet the Cognifix-Technologies leadership team:
 
-- __Karman__: *The founder and the core member of the organization handling both operation and marketing*
-- __Gitesh__: *Co-Founder and the tech lead maintaining the implementation and innovation part of the development with ease allowing everyone to adapt to the organization's culture*
+- __Karman__: *The co-founder and the core member of the organization handling different operations*
+- __Gitesh__: *tech lead maintaining the implementation and innovation part of the development*
 - __Subham Agarwal__: *Backend Developer with strong foundation in Node.ts*
 
  Former Members:
